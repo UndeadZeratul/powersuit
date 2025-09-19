@@ -1,0 +1,52 @@
+[en default]
+
+// Merchant Store Entries
+
+// MONGOOSE WEAPONS
+
+// "Athena" Light Cannon
+MERCH_CAT_ATHENALIGHTCANNON       = "\"Mongoose\" Weapons";
+MERCH_TAG_ATHENALIGHTCANNON       = "\"Athena\" light cannon";
+MERCH_FLAVOR_ATHENALIGHTCANNON    = "You wanna fight a cyberdemon 1 on 1? Well, this is for you.";
+
+// "Calinicus" Automatic Grenade Launcher
+MERCH_CAT_CALINICUSAUTOLAUNCHER   = "\"Mongoose\" Weapons";
+MERCH_TAG_CALINICUSAUTOLAUNCHER   = "\"Calinicus\" automatic grenade launcher";
+MERCH_FLAVOR_CALINICUSAUTOLAUNCHER= "For when a crowd of zombies stands in your way.";
+
+// "Jackripper" Hybrid Machine Gun
+MERCH_CAT_JACKRIPPERHYBRIDMG      = "\"Mongoose\" Weapons";
+MERCH_TAG_JACKRIPPERHYBRIDMG      = "\"Jackripper\" hybrid machine gun";
+MERCH_FLAVOR_JACKRIPPERHYBRIDMG   = "Can't choose between 12 gauge and 9mm? Then why not both?";
+
+// "Leonidas" Light Machine Gun
+MERCH_CAT_LEONIDASLIGHTMG         = "\"Mongoose\" Weapons";
+MERCH_TAG_LEONIDASLIGHTMG         = "\"Leonidas\" light machine gun";
+MERCH_FLAVOR_LEONIDASLIGHTMG      = "Basically the Vulcanette. Almost.";
+
+// ZMG33 Light Machine Gun
+MERCH_CAT_ZMG33                   = "\"Mongoose\" Weapons";
+MERCH_TAG_ZMG33                   = "ZMG33 light machine gun";
+MERCH_FLAVOR_ZMG33                = "Liberator on steroids.";
+
+// MONGOOSE POWERSUIT PARTS
+
+// Mongoose Powersuit
+MERCH_CAT_POWERSUIT               = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUIT               = "\"Mongoose\" Powersuit";
+MERCH_FLAVOR_POWERSUIT            = "Your personal powermech which doesn't even require a class M driver's license. Yay!";
+
+// Mongoose Powersuit Core
+MERCH_CAT_POWERSUITCORE           = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUITCORE           = "\"Mongoose\" Powersuit Core";
+MERCH_FLAVOR_POWERSUITCORE        = "You can't even hide in there.";
+
+// Mongoose Powersuit Arms
+MERCH_CAT_POWERSUITARMS           = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUITARMS           = "\"Mongoose\" Powersuit Arms";
+MERCH_FLAVOR_POWERSUITARMS        = "Ruki-zagrebuki.";
+
+// Mongoose Powersuit Legs
+MERCH_CAT_POWERSUITLEGS           = "\"Mongoose\" Powersuit";
+MERCH_TAG_POWERSUITLEGS           = "\"Mongoose\" Powersuit Legs";
+MERCH_FLAVOR_POWERSUITLEGS        = "Left! Right! Left! Right!";

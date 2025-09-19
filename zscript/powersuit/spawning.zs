@@ -17,30 +17,6 @@ class HDPowersuitSpawnHandler : staticeventhandler
 	array<hdpowersuitstorage> suits;
 	array<string> weapontypes;
 	
-	override void checkreplacement(replaceevent e)
-	{
-		if (!e.replacement)
-		{
-			return;
-		}
-		
-		if (e.replacement == "hdmegasphere" && random(0, 100) < 30)
-		{
-			e.replacement = "hdpowersuitspawnerpickup";
-		}
-	}
-
-	override void CheckReplacee(ReplacedEvent e)
-	{
-		switch (e.Replacement.GetClassName())
-		{
-			case 'hdpowersuitspawnerpickup':
-					e.Replacee = "hdmegasphere";
-				break;
-		}
-	}
-
-	
 	override void worldthingspawned(worldevent e)
 	{
 		if (e.thing && e.thing.getclassname() == "hdpowersuitspawnerpickup" && !(hdpowersuitspawnerpickup(e.thing).owner))

@@ -1,0 +1,17 @@
+// Mongoose Powersuit Spawn Table Entries
+addSpawnTableSingleEntry => { "tableName": "MegaSphereReplaces", "name": "HDPowersuitSpawnerPickup", "weight": "0.3", "persists": "true" }
+
+
+// New Mongoose Store Type
+newMerchantStore => { "type": "mongoose", "chance": "#hdm_chance_item", "skins": "Daina2" }
+
+// Mongoose Merchant
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_ATHENALIGHTCANNON", "item": "hdpowersuitbrontoarmpickup", "icon": "ATENZ0", "displayName": "$MERCH_TAG_ATHENALIGHTCANNON", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_ATHENALIGHTCANNON" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_CALINICUSAUTOLAUNCHER", "item": "hdpowersuitrocketarmpickup", "icon": "CLNCZ0", "displayName": "$MERCH_TAG_CALINICUSAUTOLAUNCHER", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_CALINICUSAUTOLAUNCHER" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_JACKRIPPERHYBRIDMG", "item": "hdpowersuitsmgarmpickup", "icon": "JKRPZ0", "displayName": "$MERCH_TAG_JACKRIPPERHYBRIDMG", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_JACKRIPPERHYBRIDMG" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_LEONIDASLIGHTMG", "item": "hdpowersuitvulcarmpickup", "icon": "LEONZ0", "displayName": "$MERCH_TAG_LEONIDASLIGHTMG", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_LEONIDASLIGHTMG" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_POWERSUIT", "item": "hdpowersuitspawnerpickup", "icon": "HCAPA0", "displayName": "$MERCH_TAG_POWERSUIT", "basePrice": "1500", "flavorText": "$MERCH_FLAVOR_POWERSUIT" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_POWERSUITARMS", "item": "hdpowersuitbotharmspickup", "icon": "PARMZ0", "displayName": "$MERCH_TAG_POWERSUITARMS", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_POWERSUITARMS" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_POWERSUITCORE", "item": "hdpowersuitcorepickup", "icon": "PSTOZ0", "displayName": "$MERCH_TAG_POWERSUITCORE", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_POWERSUITCORE" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_POWERSUITLEGS", "item": "hdpowersuitlegspickup", "icon": "PLGSZ0", "displayName": "$MERCH_TAG_POWERSUITLEGS", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_POWERSUITLEGS" }
+newMerchantStoreItem => { "type": "mongoose", "category": "$MERCH_CAT_ZMG33", "item": "hdpowersuitlibarmpickup", "icon": "ZMG3A7", "displayName": "$MERCH_TAG_ZMG33", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_ZMG33" }
