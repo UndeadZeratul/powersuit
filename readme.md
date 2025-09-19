@@ -1,5 +1,7 @@
 # UAC "Mongoose" Light Powersuit
-> A mod for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor/) that adds a mini mech-suit.
+A mod for [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor/) that adds a mini mech-suit.
+
+_Requires [HDCoreLib](https://github.com/HDest-Community/hdest-core-lib), made by the community._
 
 ## INFO
 
