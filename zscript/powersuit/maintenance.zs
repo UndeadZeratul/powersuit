@@ -865,7 +865,7 @@ class HDPowersuitEditor : hdweapon
 						{
 							hdarmour armorvar = hdarmour(findinventory("hdarmour"));
 							
-							if (armorvar && armorvar.mega)
+							if (armorvar && HDCore.isChildClass(armorvar.getClass(), 'BattleArmour'))
 							{
 								invoker.actiontime = 350;
 								invoker.actionmessage = "Disassembling battle armor";
